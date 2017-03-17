@@ -1,5 +1,6 @@
 # powerpolePCB
 power distribution board for (45A) Anderson PowerPoles
+Trace widths pictured for 10A max supply current
 
 ![board](/img/board.png)
 

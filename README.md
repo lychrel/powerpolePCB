@@ -5,10 +5,10 @@ Trace widths pictured for 10A max supply current
 
 ![board](/img/BRD/board.png)
 
-<img src="/img/render/front.png" alt="front render" width="300">
-[comment]: <> (![front](/img/render/front.png | width=300))
-<img src="/img/render/back.png" alt="front render" width="300">
-[comment]: <> (![back](/img/render/back.png | width=300))
+<div style="width: 600px">
+  <img src="/img/render/front.png" alt="front render" width="300">
+  <img src="/img/render/back.png" alt="front render" width="300">
+</div>
 
 Eventually I plan on expanding this to a library of packages for the many different ways and configurations in which you can attach the different-size PowerPoles to a PCB.
 

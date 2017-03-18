@@ -67,6 +67,8 @@
 <wire x1="15.24" y1="16.002" x2="15.24" y2="66.04" width="3.81" layer="30"/>
 <wire x1="7.3152" y1="16.002" x2="7.3152" y2="66.04" width="3.81" layer="30"/>
 <wire x1="23.1648" y1="16.002" x2="23.1648" y2="66.04" width="3.81" layer="30"/>
+<text x="15.24" y="10.16" size="3.556" layer="26" font="fixed" rot="MR0" align="center">NCSU</text>
+<text x="15.24" y="3.81" size="3.556" layer="26" font="fixed" rot="MR0" align="center">ARC</text>
 </plain>
 <libraries>
 <library name="jack">

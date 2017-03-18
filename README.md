@@ -5,7 +5,7 @@ Trace widths pictured for 10A max supply current
 
 ![board](/img/BRD/board.png)
 
-<div style="width: 600px; margin:0 auto;">
+<div style="width: 600px; align: center;">
   <img src="/img/render/front.png" alt="front render" width="300">
   <img src="/img/render/back.png" alt="front render" width="300">
 </div>

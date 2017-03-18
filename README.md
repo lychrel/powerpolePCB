@@ -4,6 +4,7 @@ power distribution board for (45A) Anderson PowerPoles
 Trace widths pictured for 10A max supply current
 
 ![board](/img/board.png)
+![render](/img/frontRender.png)
 
 Eventually I plan on expanding this to a library of packages for the many different ways and configurations in which you can attach the different-size PowerPoles to a PCB.
 
